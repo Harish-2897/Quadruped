@@ -4,6 +4,7 @@ arduino nano
 we need to give 4-5v to servo so i used an buck converter
 use an capacitor cause servos will consume heavy power when they turn on if no capacitor is used it will keep reseting
 // 3d printed parts link
+https://www.pcbway.com/project/shareproject/Quadruped_Spider_Robot_3D_Printed_Parts_SG90_Servo_Motor_Arduino_Nano_10107fe3.html
 
 //////////////////////////////////////////////////////////////
 1st set all servos to 90deg before assembling use servo test code
