@@ -1,0 +1,11 @@
+arduino nano 
+12 servo motor
+2 lithium battries
+we need to give 4-5v to servo so i used an buck converter
+use an capacitor cause servos will consume heavy power when they turn on if no capacitor is used it will keep reseting
+// 3d printed parts link
+
+//////////////////////////////////////////////////////////////
+1st set all servos to 90deg before assembling use servo test code
+assembel as per instruction 
+upload the quadruped code to your microcontroller
